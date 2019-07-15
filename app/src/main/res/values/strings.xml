@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndelaChallenge</string>
+    <string name="welcome_note">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+
+    <string name="my_profile">My profile</string>
+
+    <string name="my_name">Name:  Georgia Rwechungura</string>
+
+    <string name="track">Track:  Android</string>
+
+    <string name="emil">Email:  georgearwechu@gmail.com</string>
+
+    <string name="phone_number">Phone Number:  +255655745354</string>
+
+    <string name="country">Country:  Tanzania</string>
+
+    <string name="slack_username">Slack Username: @Georgia</string>
+    <string name="notification_error_ssl_cert_invalid">SSL error please allow permision</string>
+</resources>
