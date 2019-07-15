@@ -34,6 +34,8 @@
             android:layout_gravity="center"
             android:onClick="aboutAlc"
             android:layout_marginTop="50dp"
+            android:textColor="#fff"
+            android:background="@color/colorPrimary"
             />
 
         <Button
@@ -43,6 +45,8 @@
             android:layout_gravity="center"
             android:onClick="myProfile"
             android:text="@string/my_profile"
+            android:background="@color/colorPrimary"
+            android:textColor="#fff"
             android:layout_marginTop="100dp"/>
 
 

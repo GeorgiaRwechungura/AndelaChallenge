@@ -11,58 +11,61 @@
         android:orientation="vertical"
         >
 
-<android.support.v7.widget.AppCompatImageView
-    android:layout_height="wrap_content"
-    android:layout_width="wrap_content"
-    android:src="@drawable/pic"/>
+        <android.support.v7.widget.AppCompatImageView
+            android:layout_width="342dp"
+            android:layout_height="334dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="15dp"
+            android:paddingRight="15dp"
+            android:src="@drawable/pic" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/my_name"
             android:layout_gravity="center"
-            android:layout_marginTop="2dp"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+            android:layout_marginTop="10dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
 
         <TextView
             android:layout_width="fill_parent"
             android:layout_height="2dp"
             android:layout_gravity="center"
             android:background="#000"
-            android:layout_marginTop="4dp"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+            android:layout_marginTop="1dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:text="@string/track"
             android:layout_marginTop="20dp"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:text="@string/country"
             android:layout_marginTop="20dp"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:text="@string/emil"
             android:layout_marginTop="20dp"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:text="@string/phone_number"
             android:layout_marginTop="20dp"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:text="@string/slack_username"
             android:layout_marginTop="20dp"/>
 
